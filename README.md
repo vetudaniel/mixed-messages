@@ -2,4 +2,4 @@
 
 ## Needs Node.js to run
 
-terminal command: node index.js
+terminal command: node script.js
